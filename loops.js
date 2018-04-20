@@ -21,8 +21,9 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array) {
-  array.length > 0
+  return array.length > 0
 }
-while (maybeTrue()) {
-  
-}
+  do {
+    return array
+  }
+  while (maybeTrue());
