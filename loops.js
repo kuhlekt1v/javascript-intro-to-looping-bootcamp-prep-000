@@ -21,7 +21,7 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array) {
-  array.length() >= 1
+  array.lengtharray.length() >= 1
 }
 while (maybeTrue()) {
   console.log
