@@ -16,13 +16,4 @@ function whileLoop(n){
     console.log(n)
     if (n === 0) {
     return('done')
-    }
-function doWhileLoop(array) {
-   function maybeTrue() {
-     return Math.random() >= 0.5
-   }
-   do {
-    array.pop();
-   } while (array.length > -1 && maybeTrue());
-    return array;
-}
+    };
